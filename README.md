@@ -12,12 +12,9 @@
 </span>
 
 \
-I'm a Software Developr based in Tuscany, Italy 🇮🇹
+**I'm a Software Developr based in Tuscany, Italy 🇮🇹**
 
-🔭 I’m currently working on Frontend and Mobile Application, 3D WebGL and NodeJS backend API.
-
-🌱 I’m currently learning Machine Learning and Computer Vision
-
-📫 You can [reach me](https://twitter.com/alexzaganelli) on Twitter 🐦
-
-😄 Pronouns: He/him 🏳️‍🌈
+🔭 I’m currently working on Frontend and Mobile Application, 3D WebGL and NodeJS backend API.\
+🌱 I’m currently learning Machine Learning and Computer Vision\
+📫 You can [reach me](https://twitter.com/alexzaganelli) on Twitter 🐦\
+😄 Pronouns: He/him 🏳️‍🌈\
